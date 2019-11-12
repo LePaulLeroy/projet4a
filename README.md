@@ -1,55 +1,37 @@
-# Application Spanish Foot Team
+# Application WikiCountry
 
-## Projet réalisé par 
+## Project realised by 
 
-- Paul Leroy 3A
+- Paul Leroy 4A
+- Alexandre Haye 4A
+- Paul-Alexis Mandengué 4A
 
-## Présentation
+## Presentation
 
-Simple projet démontrant l'utilisation de l'appel API Rest, et d'une Recycler View dans une application android.
-
-Cette application affiche la liste des équipes de football Espagnol et utilise l'API du site https://www.thesportsdb.com .
-
-## Prérequis
-
-
-- Installation d'Android Studio<br/>
-
+Simple mobile project in React native.
+This application show a description of the country. It use the API of https://restcountries.eu/rest/v2/
 
 ````
-https://github.com/LePaulLeroy/MyFirstApp
+https://github.com/LePaulLeroy/projet4a/
 ````
 
-## Consignes respectées : 
+## Fonctionnalities: 
 
-- Architecture MVC
-- Appels REST
-- Ecrans : 3 activités
-- Affichage d'une liste dans un RecyclerView
-- Affichage du détail d'un item de la liste
-- Gitflow 
-- Fonctions supplémentaires :
-	- Mise en cache
-	- Boutton de Refresh
+### First screen 
 
+- Home menu of the application
 
-## Fonctionnalités: 
+<img src="screen1.png" alt="Home">
 
-### Premier écran 
+### Description screen  
 
-- Menu de l'application
+- Show the descritpion of the country with : Continent, Capital, Population, Currencies, Languages
 
-<img src="Screen1.png" alt="Ecran d'accueil">
+<img src="screen2.png" alt="Search">   
 
-### Ecran Liste 
+### About Us screen 
 
-- Affiche la liste des clubs de foot avec un boutton refresh.
+- Show the informations of the app
 
-<img src="Screen12.png" alt="Search">   
-
-### Ecran du détail du clubs
-
-- Affiche les différentes informations sur le club
-
-<img src="Screen13.png" alt="About US"> 
+<img src="screen3.png" alt="About US"> 
 
