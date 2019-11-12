@@ -4,6 +4,7 @@ import style from '../Style';
 import axios from 'axios';
 import SvgUri from 'react-native-svg-uri';
 
+
 export default class Wiki extends React.Component {
 
     
@@ -16,7 +17,7 @@ export default class Wiki extends React.Component {
                     return <Image source={require('./icons/search.png')} style={{width : 20, height : 20}}/>
                  },
         
-                }
+           } 
     }
 
     constructor(props) {
@@ -98,7 +99,9 @@ export default class Wiki extends React.Component {
                         <Text style = {style.desc} > {this.state.report[0].languages[0].name}
                         </Text> 
                         </Text>
-                            
+                        
+
+                    
                     </View>
             )
         }
