@@ -27,11 +27,11 @@ https://github.com/LePaulLeroy/projet4a/
 
 - Show the descritpion of the country with : Continent, Capital, Population, Currencies, Languages
 
-<img src="screen2.png" alt="Search">   
+<img src="2screen.png" alt="Search">   
 
 ### About Us screen 
 
 - Show the informations of the app
 
-<img src="screen3.png" alt="About US"> 
+<img src="3screen.png" alt="About US"> 
 
